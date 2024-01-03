@@ -1,9 +1,17 @@
 [Street Style Landing Page](https://dapper-cranachan-e5219d.netlify.app/)
 
-
+![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
+<br/>
 ### Project Name : Street Style Landing Page !
 
 ### Creating a Responsive Web Design with Pure HTML and CSS: A Focus on Desktop Positions
+
+
+# ✨ Tech Stack Used :
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+<br/>
 
 
 In the dynamic landscape of web development, creating a visually appealing and user-friendly interface is crucial. One approach to achieve this is by using pure HTML and CSS to build a responsive web design that seamlessly adapts to various screen sizes. This short article will outline the key aspects of a project developed with HTML and CSS, with a primary emphasis on positioning elements for desktop screens
@@ -11,6 +19,15 @@ In the dynamic landscape of web development, creating a visually appealing and u
 ### Project Overview
 
 The project at hand is developed using only HTML and CSS, showcasing the power of these foundational web technologies. While frameworks and libraries are popular for efficiency, a purist approach allows for a deep understanding of the fundamentals.
+
+
+### Demo :
+
+![Alt text](webpage.png)
+
+### You can Check it Live on Below Link :
+
+[Live Link !](https://dapper-cranachan-e5219d.netlify.app/)
 
 
 ### HTML Structure
